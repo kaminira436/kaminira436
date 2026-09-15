@@ -69,6 +69,4 @@ The project focuses on semantic HTML, responsive and adaptive design, and creati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iryna_Kamin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iryna-kamin-4547792a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-kaminira436-000000?style=for-the-badge&logo=github)](https://github.com/kaminira436)
 [![Email](https://img.shields.io/badge/Email-kaminira436%40gmail.com-000000?style=for-the-badge&logo=gmail)](mailto:kaminira436@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iryna_Kamin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iryna-kamin-4547792a8/)
-[![GitHub](https://img.shields.io/badge/GitHub-kaminira436-000000?style=for-the-badge&logo=github)](https://github.com/kaminira436)
-[![Email](https://img.shields.io/badge/Email-kaminira436%40gmail.com-000000?style=for-the-badge&logo=gmail)](mailto:kaminira436@gmail.com)
+
